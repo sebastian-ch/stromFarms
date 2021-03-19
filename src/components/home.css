@@ -1,0 +1,59 @@
+.home {
+    
+    width: 100vw;
+    display: flex;   
+    /*color: white; */
+    justify-content: center;
+    align-content: center;
+    text-align: center;
+    font-size: 30px;
+    border-bottom: 15px solid #323232;
+    
+    
+}
+
+ul {
+  list-style-type: none;
+}
+
+.item {
+    display: flex;
+    align-items:center;
+    justify-content:center;
+    height: 80vh;
+
+}
+.words {
+    width: 40%;
+}
+.pic {
+    background-image: url(../imgs/home.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    
+    width: 50%;
+    
+  }
+
+  .pic2 {
+    background-image: url(../imgs/cow.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    
+    width: 50%;
+    
+  }
+
+  .pic3{
+    background-image: url(../imgs/as-green.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    
+    width: 50%;
+    
+  }
+
+  

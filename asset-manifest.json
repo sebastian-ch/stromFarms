@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/stromFarms/static/css/main.331e6810.chunk.css",
-    "main.js": "/stromFarms/static/js/main.f0e4a191.chunk.js",
-    "main.js.map": "/stromFarms/static/js/main.f0e4a191.chunk.js.map",
+    "main.js": "/stromFarms/static/js/main.457cae89.chunk.js",
+    "main.js.map": "/stromFarms/static/js/main.457cae89.chunk.js.map",
     "runtime-main.js": "/stromFarms/static/js/runtime-main.24511a7c.js",
     "runtime-main.js.map": "/stromFarms/static/js/runtime-main.24511a7c.js.map",
     "static/js/2.839a0cd7.chunk.js": "/stromFarms/static/js/2.839a0cd7.chunk.js",
@@ -20,6 +20,6 @@
     "static/js/runtime-main.24511a7c.js",
     "static/js/2.839a0cd7.chunk.js",
     "static/css/main.331e6810.chunk.css",
-    "static/js/main.f0e4a191.chunk.js"
+    "static/js/main.457cae89.chunk.js"
   ]
 }

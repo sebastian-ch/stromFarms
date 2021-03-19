@@ -19,7 +19,7 @@ const CommunityWrap = styled.div`
 export default function OurCommunity() {
   return (
     <CommunityWrap>
-      <h3>We love being a part of the tight knit community of Pelican Town! Recently, we recently attended the Stardew Valley Fair where we displayed our crops and met with the mayor.</h3>
+      <h3>We love being a part of the tight knit community of Pelican Town! Recently, we attended the Stardew Valley Fair where we displayed our crops and met with the mayor.</h3>
       
       <img style={{width: '600px'}} src={fair} />
       

@@ -1,24 +1,25 @@
 {
   "files": {
     "main.css": "/stromFarms/static/css/main.331e6810.chunk.css",
-    "main.js": "/stromFarms/static/js/main.d2386753.chunk.js",
-    "main.js.map": "/stromFarms/static/js/main.d2386753.chunk.js.map",
+    "main.js": "/stromFarms/static/js/main.f0e4a191.chunk.js",
+    "main.js.map": "/stromFarms/static/js/main.f0e4a191.chunk.js.map",
     "runtime-main.js": "/stromFarms/static/js/runtime-main.24511a7c.js",
     "runtime-main.js.map": "/stromFarms/static/js/runtime-main.24511a7c.js.map",
-    "static/js/2.c5586d53.chunk.js": "/stromFarms/static/js/2.c5586d53.chunk.js",
-    "static/js/2.c5586d53.chunk.js.map": "/stromFarms/static/js/2.c5586d53.chunk.js.map",
+    "static/js/2.839a0cd7.chunk.js": "/stromFarms/static/js/2.839a0cd7.chunk.js",
+    "static/js/2.839a0cd7.chunk.js.map": "/stromFarms/static/js/2.839a0cd7.chunk.js.map",
     "index.html": "/stromFarms/index.html",
     "static/css/main.331e6810.chunk.css.map": "/stromFarms/static/css/main.331e6810.chunk.css.map",
-    "static/js/2.c5586d53.chunk.js.LICENSE.txt": "/stromFarms/static/js/2.c5586d53.chunk.js.LICENSE.txt",
+    "static/js/2.839a0cd7.chunk.js.LICENSE.txt": "/stromFarms/static/js/2.839a0cd7.chunk.js.LICENSE.txt",
     "static/media/alina-big.e68b4285.png": "/stromFarms/static/media/alina-big.e68b4285.png",
     "static/media/home.css": "/stromFarms/static/media/home.e103fd04.jpg",
     "static/media/fair.6bf05907.png": "/stromFarms/static/media/fair.6bf05907.png",
+    "static/media/mayor.5edc7a5c.png": "/stromFarms/static/media/mayor.5edc7a5c.png",
     "static/media/seb-big.139b160b.png": "/stromFarms/static/media/seb-big.139b160b.png"
   },
   "entrypoints": [
     "static/js/runtime-main.24511a7c.js",
-    "static/js/2.c5586d53.chunk.js",
+    "static/js/2.839a0cd7.chunk.js",
     "static/css/main.331e6810.chunk.css",
-    "static/js/main.d2386753.chunk.js"
+    "static/js/main.f0e4a191.chunk.js"
   ]
 }

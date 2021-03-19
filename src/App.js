@@ -12,7 +12,7 @@ function App() {
   return (
     <div className='wrap'>
       <h1 className='title'>Strom Farms</h1>
-      <BrowserRouter>
+      <BrowserRouter basename={process.env.PUBLIC_URL}>
       <nav>
 
           <div className='myLink'><Link style={{textDecoration: 'none', color: 'white'}} to="/home">Home</Link></div>
